@@ -1,0 +1,20 @@
+.landing {
+  margin: 0;
+  padding: 0;
+  height: 100svh;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: none;
+}
+
+.loginImage {
+  flex-basis: 60%;
+}
+
+.loginCard {
+  flex-basis: 40%;
+  padding: 2rem;
+}

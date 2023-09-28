@@ -1,0 +1,19 @@
+.side_panel_ {
+  display: flex;
+  position: fixed;
+  width: 4rem;
+  height: 100%;
+  left: 0;
+  top: 0;
+  flex-overflow: none;
+  flex-direction: column;
+  border-right: 1px solid #ccc;
+  padding: 1rem;
+}
+
+.panel_brand_ {
+  box-sizing: border-box;
+  border: 1px solid black;
+  height: 50px;
+  border-radius: 5px;
+}
